@@ -7,7 +7,7 @@
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <authorEmail>stefan@databauer.ch</authorEmail>
     <authorUrl>https://www.ludothekprogramm.ch</authorUrl>
-    <version>3.82.0</version>
+    <version>3.83.0</version>
     <description>LUPO - [spiel 1002.3] zeigt das Spiel mit der Nummer 1002.3 an</description>
 	<files>
 		<filename plugin="lupotoy">lupotoy.php</filename>
